@@ -90,7 +90,7 @@ export default function App() {
           <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-2">
             Bonga Management
           </h1>
-          <p className="text-gray-600">Manage your products with ease</p>
+          <p className="text-gray-600">Manage your Bongaes with ease</p>
         </div>
 
         <div className="flex justify-center mb-8">
