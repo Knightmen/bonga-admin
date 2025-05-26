@@ -88,7 +88,7 @@ export default function App() {
       <div className="w-full max-w-6xl bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl p-8">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-2">
-            Product Management
+            Bonga Management
           </h1>
           <p className="text-gray-600">Manage your products with ease</p>
         </div>
