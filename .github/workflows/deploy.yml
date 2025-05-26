@@ -32,6 +32,5 @@ jobs:
 
             echo "Building react app..."
             yarn build
-
             echo "Bonga deployed successfully!"
           EOF
